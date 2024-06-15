@@ -27,6 +27,10 @@ InventoryPro provides a user-friendly interface for real-time monitoring of stoc
 
 ## Screenshots
 
+![Screenshot from 2024-06-15 20-17-58](https://github.com/ivedantsharma/Inventory-Application/assets/153631137/7be80ae8-8848-4f85-b5b7-e93795102606)
+![Screenshot from 2024-06-15 20-26-52](https://github.com/ivedantsharma/Inventory-Application/assets/153631137/46da72f0-b1ab-4037-97d4-3102731bf1ea)
+![Screenshot from 2024-06-15 20-27-50](https://github.com/ivedantsharma/Inventory-Application/assets/153631137/4fc1c5d2-9336-45e1-9f65-39c1960bb9c5)
+![Screenshot from 2024-06-15 20-27-50](https://github.com/ivedantsharma/Inventory-Application/assets/153631137/8be14230-bb30-4e50-9f57-938aa4bbf95c)
 
 
 ## Installation
